@@ -1,0 +1,66 @@
+{
+  "dueutil-ranks": {
+    "1,10":{ 
+      "expForNextLevel": "1000*oldLevel"
+    },
+    "11,14": {
+      "expForNextLevel": 10000
+    },
+    "15": {
+      "expForNextLevel": 15000
+    },
+    "16,18": {
+      "expForNextLevel": 20000
+    },
+   "19,1000": {
+      "expForNextLevel": "20000+3000**((oldLevel)**1/50)+3000*(oldLevel)"
+    }
+  },
+  "rank-awards": {
+    "10": "Duseless",
+    "20": "Duseless",
+    "30": "Duseless",
+    "40": "Duseless",
+    "50": "Duseless",
+    "60": "Duseless",
+    "70": "Duseless",
+    "80": "Duseless",
+    "90": "Duseless",
+    "100":"Duseless"
+  },
+  "dueutil-team-ranks": {
+    "1,10":{ 
+      "teamexpForNextLevel": "50000*oldLevel"
+    },
+    "11,14": {
+      "teamexpForNextLevel": 500000
+    },
+    "15": {
+      "teamexpForNextLevel": 750000
+    },
+    "16,18": {
+      "teamexpForNextLevel": 1000000
+    },
+   "19,1000": {
+      "teamexpForNextLevel": "1000000+3000**(oldLevel**1/10)+30000*(oldLevel)"
+    }
+  },
+  "dueutil-raid-ranks": {
+    "1,4":{ 
+      "raidexpForNextLevel": "5000*oldLevel"
+    },
+    "5,9":{ 
+      "raidexpForNextLevel": "10000*oldLevel"
+    },
+    "10,14":{ 
+      "raidexpForNextLevel": "25000*oldLevel"
+    },
+    "15,24":{ 
+      "raidexpForNextLevel": "50000*oldLevel"
+    },
+    "25,1000": {
+      "raidexpForNextLevel": "5000+3000**(oldLevel**1/25)+15000*(oldLevel)"
+    }
+  }
+}
+

@@ -1,0 +1,233 @@
+{
+    "cityden": {
+        "description": "What a view, Right?",
+        "icon": "\ud83c\udf06",
+        "name": "Cityden",
+        "image": "cityden.png",
+        "price": 20000
+    },
+    "ink or sink": {
+        "description": "Wooomy!",
+        "icon": "<:SplatoonSquid:465884060015656961>",
+        "name": "Ink or Sink",
+        "image": "ink_or_sink.png",
+        "price": 100
+    },
+    "night forest": {
+        "description": "Such a beautiful forest at night",
+        "icon": "\ud83c\udf33",
+        "name": "Night Forest",
+        "image": "night_forest.png",
+        "price": 20000
+    },
+    "sliced ice": {
+        "description": "A large Glacier the view",
+        "icon": "\u2744",
+        "name": "Sliced Ice",
+        "image": "sliced_ice.png",
+        "price": 1000
+    },
+    "lines": {
+        "description": "just some lines",
+        "icon": "\ud83c\udf08",
+        "name": "Lines",
+        "image": "lines.png",
+        "price": 20000
+    },
+    "halloween": {
+        "description": "So it's Halloween?",
+        "icon": "\ud83d\udc7b",
+        "name": "Halloween",
+        "image": "halloween.png",
+        "price": 20000
+    },
+    "galaxy": {
+        "description": "woah its space",
+        "icon": "<:planet:516377759224823808>",
+        "name": "Galaxy",
+        "image": "galaxy.png",
+        "price": 25000
+    },
+    "black cube 3d": {
+        "description": "This is amazing",
+        "icon": "\u25fe",
+        "name": "Black Cube 3D",
+        "image": "black_cube_3d.png",
+        "price": 5000
+    },
+    "god": {
+        "description": "bow down to lord theelgirl",
+        "icon": "<:god:498622369938538498>",
+        "name": "god",
+        "image": "god.png",
+        "price": 0
+    },
+    "spain": {
+        "description": "ARRIBA ESPA\u00d1A JODER",
+        "icon": "<:ARRIBAHISPANIA:467809616101769225>",
+        "name": "Spain",
+        "image": "spain.png",
+        "price": 1000
+    },
+    "this is a bad name": {
+        "description": "This is a bad description",
+        "icon": "<:channel:415419365920342017>",
+        "name": "This is a bad name",
+        "image": "this_is_a_bad_name.png",
+        "price": 1
+    },
+    "purple tornado": {
+        "description": "A Purple Tornado",
+        "icon": "\ud83c\udf2a",
+        "name": "Purple Tornado",
+        "image": "purple_tornado.png",
+        "price": 50000
+    },
+    "cats & rats": {
+        "description": "A Simple Mess",
+        "icon": "\ud83e\udd84",
+        "name": "Cats & Rats",
+        "image": "cats_&_rats.png",
+        "price": 500
+    },
+    "sorrow fire": {
+        "description": "those who have a flaming heart",
+        "icon": "\ud83d\udd25",
+        "name": "Sorrow Fire",
+        "image": "sorrow_fire.png",
+        "price": 0
+    },
+    "hell": {
+        "description": "Mortal#0256 added this one",
+        "icon": "\ud83d\udd25",
+        "name": "Hell",
+        "image": "hell.png",
+        "price": 0
+    },
+    "transparent": {
+        "description": "Not by <@!302807237812813824>",
+        "icon": "<:channel:415419365920342017>",
+        "name": "Transparent",
+        "image": "transparent.png",
+        "price": 1
+    },
+    "moon": {
+        "description": "Moon is not made of cheese?",
+        "icon": "\ud83c\udf15",
+        "name": "Moon",
+        "image": "moon.png",
+        "price": 2000
+    },
+    "sticks": {
+        "description": "Nature is so beautiful",
+        "icon": "\ud83c\udf3f",
+        "name": "Sticks",
+        "image": "sticks.png",
+        "price": 1000
+    },
+    "the log": {
+        "description": "Nohup.py log",
+        "icon": "<:slimeemoji:415419368055373824>",
+        "name": "The Log",
+        "image": "the_log.png",
+        "price": 1000000
+    },
+    "flame bg": {
+        "description": "Flame#7526 done this one.",
+        "icon": "\ud83d\udd25",
+        "name": "Flame Bg",
+        "image": "flame_bg.png",
+        "price": 1000000
+    },
+    "code geass": {
+        "description": "Symbol of Ruling",
+        "icon": "\ud83d\udc51",
+        "name": "Code Geass",
+        "image": "code_geass.png",
+        "price": 0
+    },
+    "tem madness": {
+        "description": "For Temmie's Fans",
+        "icon": "<:temowo:472740130466168852>",
+        "name": "Tem Madness",
+        "image": "tem_madness.png",
+        "price": 666
+    },
+    "candy floss": {
+        "description": "Cotton Candy",
+        "icon": "<:blobby:422152071668563988>",
+        "name": "Candy Floss",
+        "image": "candy_floss.png",
+        "price": 50000
+    },
+    "turquoise eclipse": {
+        "description": "beautiful eclipse.",
+        "icon": "\ud83d\udcd8",
+        "name": "Turquoise Eclipse",
+        "image": "turquoise_eclipse.png",
+        "price": 5000
+    },
+    "black manta": {
+        "description": "Revenge is heat ray",
+        "icon": "<:blackmanta:493466659625893888>",
+        "name": "Black Manta",
+        "image": "black_manta.png",
+        "price": 0
+    },
+    "the barrens": {
+        "description": "The Outside Ring of the World",
+        "icon": "\ud83c\udf11",
+        "name": "The Barrens",
+        "image": "the_barrens.png",
+        "price": 2000
+    },
+    "qzbycnvwdgkwbg==": {
+        "description": "QzBycnVwdGkwbg==",
+        "icon": "<:F41:497560946127011880>",
+        "name": "QzBycnVwdGkwbg==",
+        "image": "qzbycnvwdgkwbg==.png",
+        "price": 0
+    },
+    "red eclipse": {
+        "description": "beautiful eclipse.",
+        "icon": "\ud83d\ude97",
+        "name": "Red Eclipse",
+        "image": "red_eclipse.png",
+        "price": 500
+    },
+    "rainbows": {
+        "description": "rainbowwwwwwwwws",
+        "icon": "<:rainbowwumpus:436692461100859393>",
+        "name": "rainbows",
+        "image": "rainbow.png",
+        "price": 100000
+    },
+    "optical illusion": {
+        "description": "Get fooled",
+        "icon": "<:facepalm:418523141254545429>",
+        "name": "Optical Illusion",
+        "image": "optical_illusion.png",
+        "price": 25000
+    },
+    "red aurora": {
+        "description": "A beautiful red Aurora",
+        "icon": "\ud83d\udd34",
+        "name": "Red Aurora",
+        "image": "red_aurora.png",
+        "price": 500
+    },
+    "symbiotic sync": {
+        "description": "We are Venom",
+        "icon": "\ud83d\udd77",
+        "name": "Symbiotic Sync",
+        "image": "symbiotic_sync.png",
+        "price": 1000000
+    },
+    "galaxy blob": {
+        "description": "That beautiful the Galaxy",
+        "icon": "\u2728",
+        "name": "Galaxy Blob",
+        "image": "galaxy_blob.png",
+        "price": 5000
+    }
+}

@@ -1,0 +1,298 @@
+{
+   "discord blue":{
+      "name":"Discord Blue",
+      "icon":":cd:",
+      "description":"The default banner",
+      "image":"info_banner.png",
+      "price":0
+   },
+   "deep blue":{
+      "name":"Deep Blue",
+      "icon":":large_blue_diamond:",
+      "description":"A dark blue banner",
+      "image":"deepblue.png",
+      "price":450
+   },
+   "orange":{
+      "name":"Orange",
+      "icon":":large_orange_diamond:",
+      "description":"An orange banner",
+      "image":"orange.png",
+      "price":450 
+   },
+   "black manta2":{
+      "name":"Black Manta2",
+      "icon":":bm_emote:",
+      "description":"Vengeance is black.",
+      "image":"BM_banner.png",
+      "price":10000
+   },
+   "teal":{
+      "name":"Teal",
+      "icon":":tea:",
+      "description":"Is it green or blue? Who knows.",
+      "image":"teal.png",
+      "price":450
+   },
+   "translucent black":{
+      "name":"Translucent Black",
+      "icon":":black_large_square:",
+      "description":"It's like sorta see-through!",
+      "image":"classicbanner.png",
+      "price":25
+   },
+   "quest red":{
+      "name":"Quest Red",
+      "icon":":red_circle:",
+      "description":"Roleplay being a quest!",
+      "image":"quest_red.png",
+      "price":50
+   },
+   "totally pink":{
+      "name":"Totally Pink",
+      "icon":":peach:",
+      "description":"Manly banner for real men.",
+      "image":"totally_pink.png",
+      "price":50
+   },
+   "zombie green":{
+      "name":"Zombie Green",
+      "icon":":nauseated_face:",
+      "description":"BRAINS!!!",
+      "image":"zombie_green.png",
+      "price":50
+   },
+   "pastel green":{
+      "name":"Pastel Green",
+      "icon":":melon:",
+      "description":"Get teal! More green!",
+      "image":"dueutiltech.png",
+      "price":150	
+   },
+   "fine crystal":{
+      "name":"Fine Crystal",
+      "icon":":wine_glass:",
+      "description":"No... It's just glass.",
+      "image":"glass_banner.png",
+      "price":7201
+   },
+   "donor black": {
+      "name":"Donor Black",
+      "icon":":black_heart:",
+      "description":"<insert funny desc>",
+      "image":"donor_black.png",
+      "price":50,
+      "donor": true
+   },
+   "donor green": {
+      "name": "Donor Green",
+      "icon": ":green_heart:",
+      "description": "<insert funny desc>",
+      "image": "donor_green.png",
+      "price": 50,
+      "donor": true
+   },
+   "donor purple": {
+      "name":"Donor Purple",
+      "icon":":purple_heart:",
+      "description":"<insert funny desc>",
+      "image":"donor_purple.png",
+      "price":50,
+      "donor": true
+   },
+   "donor red": {
+      "name":"Donor Red",
+      "icon":":heart:",
+      "description":"<insert funny desc>",
+      "image":"donor_red.png",
+      "price":50,
+      "donor": true
+   },
+   "geometric blue": {
+      "name":"Geometric Blue",
+      "icon":":large_blue_diamond:",
+      "description":"<insert funny desc>",
+      "image":"geometric_blue.png",
+      "price":150,
+      "donor": true
+   },
+   "geometric grey": {
+      "name":"Geometric Grey",
+      "icon":":older_woman:",
+      "description":"<insert funny desc>",
+      "image":"geometric_gray.png",
+      "price":150,
+      "donor": true
+   },
+   "geometric green": {
+      "name":"Geometric Green",
+      "icon":":green_book:",
+      "description":"<insert funny desc>",
+      "image":"geometric_green.png",
+      "price":150,
+      "donor": true
+   },
+   "geometric pink": {
+      "name":"Geometric Pink",
+      "icon":":pig_nose:",
+      "description":"<insert funny desc>",
+      "image":"geometric_pink.png",
+      "price":150,
+      "donor": true
+   },
+   "geometric red": {
+      "name":"Geometric Red",
+      "icon":":small_red_triangle:",
+      "description":"<insert funny desc>",
+      "image":"geometric_red.png",
+      "price":150,
+      "donor": true
+   },
+   "city night": {
+      "name":"City Night",
+      "icon":":city_dusk:",
+      "description":"Sleep well little city.",
+      "image":"CityNight.png",
+      "price":20000
+   },
+   "cubed blue": {
+      "name": "Cubed Blue",
+      "icon": "<:CubedBlue:354748171198660608>",
+      "description": "It's squares but more!",
+      "image": "cubed_blue.png",
+      "price": 1250
+   },
+   "cubed black": {
+      "name": "Cubed Black",
+      "icon": "<:CubedBlack:354748102969655306>",
+      "description": "...with a hint of transparency.",
+      "image": "cubed_black.png",
+      "price": 4500
+   },
+   "cubed red": {
+      "name": "Cubed Red",
+      "icon": "<:CubedRed:354748141817561088>",
+      "description": "Imagine cubed blue in red!",
+      "image": "cubed_red.png",
+      "price": 1250
+   },
+   "2017 spooky night": {
+      "name": "2017 Spooky Night",
+      "icon": ":jack_o_lantern:",
+      "description": ":runner: :ghost: :ghost:",
+      "image": "2017_spooky_night.png",
+      "price": 666
+   },
+   "old wood": {
+      "name": "Old Wood",
+      "icon": "<:aVeryWoodyWood:384773540270047234>",
+      "description": "'tis a fine bit of timber.",
+      "image": "wood_banner.png",
+      "price": 1650
+   },
+   "mess": {
+      "name": "Mess",
+      "icon": ":unicorn:",
+      "description": "A beautiful mess",
+      "image": "mess.png",
+      "price": 500
+   },
+   "moon": {
+      "name": "Moon",
+      "icon": ":full_moon:",
+      "description": "I thought the Moon was cheese...",
+      "image": "moon.png",
+      "price": 2000
+   },
+   "turquoise": {
+      "name": "Turquoise",
+      "icon": ":green_book:",
+      "description": "Beautiful Turquoise",
+      "image": "turquoise.png",
+      "price": 2000
+   },
+   "geometric colors": {
+      "name": "Geometric Colors",
+      "icon": ":crayon:",
+      "description": "Colorful and Happy",
+      "image": "geometric_colors.png",
+      "price": 2000 
+   },
+   "galaxy": {
+      "name": "Galaxy",
+      "icon": ":sparkler:",
+      "description": "How nice she is...",
+      "image": "galaxy.png",
+      "price": 5000
+   },
+   "nyan cat": {
+      "name": "Nyan Cat",
+      "icon": ":rainbow:",
+      "description": "Meow.",
+      "image": "nyan_cat.png",
+      "price": 10000
+   },
+   "mario kart": {
+      "name": "Mario Kart",
+      "icon": ":mk8emoji:",
+      "description": "Racing through the Mario World",
+      "image": "mario_kart.png",
+      "price": 25000
+   },
+   "pacman": {
+      "name": "Pacman",
+      "icon": ":pacmanemoji:",
+      "description": "Chomp Chomp",
+      "image": "pacman.png",
+      "price": 10000
+   },
+   "berries": {
+      "name": "Berries",
+      "icon": ":I'll_fix_emojis_eventually:",
+      "description": "BERRIES",
+      "image": "berries.png",
+      "price": 0
+   },
+   "black and yellow": {
+      "name": "Black and Yellow",
+      "icon": ":I'll_fix_emojis_eventually:",
+      "description": "Black/Yellow/Black/Yellow/Black/Yellow...",
+      "image": "black_and_yellow.png",
+      "price": 1000
+   },
+   "dreamworks": {
+      "name": "Dreamworks",
+      "icon": ":I'll_fix_emojis_eventually:",
+      "description": "Monn Fishing Boy",
+      "image": "dreamworks.png",
+      "price": 10000
+   },
+   "grinch": {
+      "name": "Grinch",
+      "icon": ":I'll_fix_emojis_eventually:",
+      "description": "You're a mean one Mr. Grinch",
+      "image": "grinch.png",
+      "price": 50000
+   },
+   "geometric cubed": {
+      "name": "Geometric Cubed",
+      "icon": ":I'll_fix_emojis_eventually:",
+      "description": "geometric^3",
+      "image": "geometric_cubed.png",
+      "price": 100000
+   },
+   "green_red_gradient": {
+      "name": "Gradiented Colors",
+      "icon": ":I'll_fix_emojis_eventually:",
+      "description": "A green-red Gradient",
+      "image": "green_red_gradient.png",
+      "price": 50000
+   },
+   "undo": {
+      "name": "Undo Come Back",
+      "icon": ":pandadab:",
+      "description": "You were an amazing admin, we need you in our team",
+      "image": "undo.png",
+      "price": 0
+   }
+}

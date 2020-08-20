@@ -1,0 +1,9 @@
+{
+  "wooden shield": {
+    "name": "Wooden Shield",
+    "defense": 1.25,
+    "defend_chance": 86,
+    "icon": "<:Dagger:330422677317877760>",
+    "image": "http://i.imgur.com/QFyiU6O.png"
+  }
+}
